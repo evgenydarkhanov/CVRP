@@ -3,5 +3,5 @@ solutions for Capacitated Vehicle Routing Problems from Set A, Set B and Set E f
 
 you may need
 - vrplib, zipfile
-- numpe, re
+- numpy, re
 - matplotlib, copy
